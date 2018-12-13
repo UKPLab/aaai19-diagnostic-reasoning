@@ -51,7 +51,7 @@ Don't hesitate to contatct us to report issues or if you have further questions.
 
 ## Experimental setup
 All code is run using Python 3.
-In all scripts, we specify where the user has to adapt the code (mostly file paths) with 'USER ACTION NEEDED'
+In all scripts, we specify where the user has to adapt the code (mostly file paths) with 'USER ACTION NEEDED'.
 
 ## NeuralNetwork Project structure
 Our Bi-LSTM architectures are based on the implementation of Nils Reimers (NR): https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
@@ -91,12 +91,12 @@ evaluate.py implements our different evaluation metrics
 * use the runModel scripts to create predictions for all (test) files
 * evaluate.py assumes the following folder structure of prediction results:
   * MeD / TeD for the two domains
-    * separate, pref, concat, separate -- folders for each method
-      * MeD_pref1, MeD_pref2, ... -- 10 folders with predicition files for 10 models trained for this model
+    * separate, pref, concat, separate - folders for each method
+      * MeD_pref1, MeD_pref2, ... - 10 folders with predicition files for 10 models trained for this model
       * note that "separate" has 4 subfolders (separate_dc, separate_hg, separate_ee, separate_eg) for the 4 epistemic activities, each with 10 subfolders for the results of the 10 models
-    * goldData -- gold annotations for the prediction files
-    * human -- different set of files used to evaluate human upper bound (all files annotated by all annotators)
-      * MeD_human1, ... -- annotations of each annotator
-      * goldData -- gold labels for the files used to evaluate human performance
+    * goldData - gold annotations for the prediction files
+    * human - different set of files used to evaluate human upper bound (all files annotated by all annotators)
+      * MeD_human1, ... - annotations of each annotator
+      * goldData - gold labels for the files used to evaluate human performance
 
 
