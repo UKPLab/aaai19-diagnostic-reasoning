@@ -30,9 +30,9 @@ If you find the implementation useful, please cite the following two papers:
 > **Abstract:** 
 We create the first corpora of students' diagnostic reasoning self-explanations from two domains annotated with the epistemic activities hypothesis generation, evidence generation, evidence evaluation, and drawing conclusions.
 We propose a separate performance metric for each challenge we identified for the automatic identification of epistemic activities, thus providing an evaluation framework for future research:
-1) the correct identification of epistemic activity spans,
-2) the reliable distinction of similar epistemic activities, and the
-3) detection of overlapping epistemic activities.
+1. the correct identification of epistemic activity spans,
+2. the reliable distinction of similar epistemic activities, and the
+3. detection of overlapping epistemic activities.
 
 Contact person: Claudia Schulz, clauschulz1812@gmail.com
 		Jonas Pfeiffer, pfeiffer@ukp.informatik.tu-darmstadt.de
