@@ -35,7 +35,7 @@ We propose a separate performance metric for each challenge we identified for th
 > 3. detection of overlapping epistemic activities.
 
 Contact person: Claudia Schulz, clauschulz1812@gmail.com
-		Jonas Pfeiffer, pfeiffer@ukp.informatik.tu-darmstadt.de
+Alternative contact person: Jonas Pfeiffer, pfeiffer@ukp.informatik.tu-darmstadt.de
 
 https://www.ukp.tu-darmstadt.de/
 
