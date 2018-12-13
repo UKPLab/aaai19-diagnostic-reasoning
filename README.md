@@ -40,7 +40,7 @@ Alternative contact person: Jonas Pfeiffer, pfeiffer@ukp.informatik.tu-darmstadt
 
 https://www.ukp.tu-darmstadt.de/
 
-https://famulus-project.de
+http://famulus-project.de
 
 
 **Please send us an e-mail if you want to get access to the corpora.**
