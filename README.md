@@ -53,7 +53,8 @@ Don't hesitate to contatct us to report issues or if you have further questions.
 All code is run using Python 3.
 In all scripts, we specify where the user has to adapt the code (mostly file paths) with 'USER ACTION NEEDED'.
 
-## NeuralNetwork Project structure
+## NeuralNetwork Experiments
+The folder "neuralNetwork_experiments" contains the code required to train the neural networks.
 Our Bi-LSTM architectures are based on the implementation of Nils Reimers (NR): https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf
 * neuralnets -- contains BiLISTM2.py for the single-output architecture and BiLSTM2_multipleOutput.py for the multi-output architecture
 * util -- various scripts for processing data and other utilities by NR
@@ -86,7 +87,8 @@ NOTE: the loading of multiOutput models assumes a static layout, this needs to b
 
 
 ## Evaluation Metrics
-evaluate.py implements our different evaluation metrics
+The folder "evaluation" contains the code required to use our evaluation framework.
+evaluate.py implements our different evaluation metrics.
 
 * use the runModel scripts to create predictions for all (test) files
 * evaluate.py assumes the following folder structure of prediction results:
