@@ -1,7 +1,7 @@
 # Challenges in the Automatic Analysis of Students' Diagnostic Reasoning
 
 The following repository contains the code for our different evalution metrics applicable to multi-label sequence-labelling tasks such as epistemic activity identification. It also provides the code for training single- and multi-output Bi-LSTMs.
-The new corpora can be obtained on request, allowing to replicate all experiments of [our paper](https://arxiv.org/abs/1811.10550).
+The new corpora can be obtained *on request*, allowing to replicate all experiments of [our paper](https://arxiv.org/abs/1811.10550).
 
 
 # Citation 
