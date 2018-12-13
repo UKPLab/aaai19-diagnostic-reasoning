@@ -4,7 +4,7 @@ The following repository contains the code for our different evalution metrics a
 The new corpora can be obtained **on request**, allowing to replicate all experiments of [our paper](https://arxiv.org/abs/1811.10550).
 
 
-# Citation 
+## Citation 
 If you find the implementation useful, please cite the following two papers:
 
 ```
